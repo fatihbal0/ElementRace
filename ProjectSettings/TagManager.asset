@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Missile
+  - Ground
+  - Water
+  - Rock
+  - WaterBarrier
+  - WaterBarrierFinish
+  - Ice
+  - Enemy
+  - AirBarrierStart
+  - AirBarrierFinish
+  - FireElement
+  - AirElement
+  - WaterElement
+  - EarthElement
+  - OtherRacer
+  - EnemyRock
+  - DeepWater
+  - OtherEnemy
+  - EnemyDeath
+  - OtherAirBarrierFinish
+  - OtherWaterBarrierFinish
+  - Skin
+  - WindBallCloser
+  - OtherWaterBarrierStart
+  - SpeedAdjustment
+  - SceneController
+  - AudioManager
+  - TutorialFireBarrier
+  - TutorialWaterBarrier
+  - TutorialAirBarrier
+  - TutorialEarthBarrier
+  - TutorialAirBallBarrier
+  - JumpControl
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
